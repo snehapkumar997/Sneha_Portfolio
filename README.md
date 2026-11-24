@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://www.linkedin.com/in/boniboban">Let’s connect on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/snehapk97/">Let’s connect on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
