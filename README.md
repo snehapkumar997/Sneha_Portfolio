@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="Boniface_Boben_SrDataAnalyst_5YOE.pdf">Download my Resume</a></td>
+      <td><a href="SnehaPK_Data_Analyst.pdf">Download my Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
